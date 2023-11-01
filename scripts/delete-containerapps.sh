@@ -1,1 +1,1 @@
-az group delete --name rg-test-haibun
+time az group delete --name rg-test-haibun

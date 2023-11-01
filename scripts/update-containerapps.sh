@@ -1,4 +1,4 @@
-az containerapp update \
+time az containerapp update \
     --name ca-test-haibun \
     --resource-group rg-test-haibun \
     --min-replicas 0 \
